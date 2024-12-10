@@ -1,0 +1,5 @@
+# Ignorar arquivos de classes Java
+*.class
+
+# Ignorar configurações do Visual Studio Code
+.vscode/
